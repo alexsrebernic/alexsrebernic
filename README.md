@@ -72,14 +72,6 @@
         <img src="https://img.shields.io/badge/EVM-purple" />
         <img src="https://img.shields.io/badge/Chainlink-purple" />
       </td>
-     <td valign="center" align="center" width="300px">
-       <img src="https://img.shields.io/badge/Photoshop-purple" /> 
-       <img src="https://img.shields.io/badge/Adobe XD-purple" /> 
-       <img src="https://img.shields.io/badge/Figma-purple" /> 
-       <img src="https://img.shields.io/badge/Blender-purple" /> 
-       <img src="https://img.shields.io/badge/WebGL-purple" /> 
-       <img src="https://img.shields.io/badge/Three.js-purple" /> 
-      </td>
     </tr>
   </table>
 </div>
