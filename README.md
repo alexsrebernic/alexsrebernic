@@ -2,12 +2,35 @@
   Hello, Nice to meet you.
 </h1>
 <h3 align="center">
-  I am a Full Stack & Blockchain Developer.
+  I am a Full Stack & Web3 Developer.
 </h3>
+
 <div align="center">
   <img src="https://github.com/alexsrebernic/alexsrebernic/blob/main/divider1.png" alt="divider"/>
 </div> 
-
+<h3 align="center">🏅 Achievements</h3>
+<div align="left" style="width:100%">
+    <ul>
+      <li>
+        <a href="https://ethglobal.com/showcase/mintory-fwd6i">
+        <strong>
+          💻 Participated on ETHOnline 
+        </strong>
+        </a>
+          (August 2024) 
+           where we built Mintory, a NFT AMM on the Base Network
+      </li>
+      <li>
+        <a href="https://github.com/alexsrebernic/digital-time-capsule">
+            <strong>
+              📖 Final Project for Encode Solana x Rust Bootcamp 
+            </strong>
+        </a>
+          (September 2024)
+           where we built a digital time capsule in the Solana blockchain     
+      </li>
+    </ul>
+</div>
 <h3 align="center"><img src="https://github.com/alexsrebernic/alexsrebernic/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
 <div align="center" style="witdh:100%"> 
@@ -56,7 +79,6 @@
  <table>
     <tr>
       <td valign="center" width="100px"><b>Blockchain<b></td>
-      <td valign="center" width="100px"><b>Design<b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
@@ -77,19 +99,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/alexsrebernic/alexsrebernic/blob/main/divider2.png" alt="divider"/>
-</div> 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Readme Quotes"/>
-</div> 
-<div align="center">
   <img src="https://github.com/alexsrebernic/alexsrebernic/blob/main/divider1.png" alt="divider"/>
 </div> 
 
-   
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=alexsrebernic&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-</p>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
